@@ -1,0 +1,36 @@
+/* increasing header text size */
+h1 {
+  font-size: 46px;
+}
+
+/* Male colour = blue */
+.male {
+  color: blue;
+}
+
+/* Female colour =  pink */
+.female {
+  color: deeppink;
+}
+
+/* to centre align  */
+.center {
+  text-align: center;
+  align-content: center;
+}
+
+/* width of name box */
+.textbox {
+  width: 240px;
+}
+
+/* set canvas container full width */
+#canvas-container {
+   width: 100%;
+   text-align:center;
+}
+
+/* canvas must display inline for width to work */
+canvas {
+   display: inline;
+}
